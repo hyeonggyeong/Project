@@ -3,7 +3,6 @@
  2. EDA
  3. 고객반응(이벤트참여여부) 예측 (SVM ,RandomForest)
 
-
 ID: 고객ID
 Year_Birth: 고객 생년월일
 Education: 고객의 교육수준
